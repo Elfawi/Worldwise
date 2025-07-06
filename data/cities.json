@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Tanta",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-07-04T00:12:42.845Z",
+      "notes": "ya sayed ya badweeeee",
+      "position": {
+        "lat": "30.789441598491763",
+        "lng": "30.935293046320236"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Busachi",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-07-04T14:08:26.580Z",
+      "notes": "tessst",
+      "position": {
+        "lat": "40.0031939934898",
+        "lng": "8.90992803467492"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-04T14:08:58.916Z",
+      "notes": "was a great month🤩",
+      "position": {
+        "lat": "40.41165911357532",
+        "lng": "-3.6941528320312504"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Djebabra",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-07-04T14:10:45.110Z",
+      "notes": "great",
+      "position": {
+        "lat": "36.58308184436827",
+        "lng": "3.27392578125"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Kebili",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2025-07-04T14:11:12.977Z",
+      "notes": "allah",
+      "position": {
+        "lat": "33.65598564133149",
+        "lng": "9.228515625000002"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Villarrobledo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-06T17:21:43.503Z",
+      "notes": "test",
+      "position": {
+        "lat": "39.13077727775189",
+        "lng": "-2.65869140625"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-06T17:25:02.607Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45906368297996",
+        "lng": "1.40625"
+      },
+      "id": 98443206
+    }
+  ]
+}
