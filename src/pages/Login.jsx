@@ -1,10 +1,10 @@
+import { Eye, EyeOff } from "lucide-react";
 import PageNav from "../components/PageNav";
 import styles from "./Login.module.css";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { useAuth } from "../contexts/FakeAuthContext";
 import { useNavigate } from "react-router-dom";
 import Button from "../components/Button";
-import { Eye, EyeOff } from "lucide-react";
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
   const [email, setEmail] = useState("elfawi@example.com");
